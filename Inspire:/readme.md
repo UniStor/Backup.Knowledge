@@ -1,1 +1,2 @@
 - [🚨 Outdated backup systems = major risk to your business 🚨](https://youtu.be/WEAirCclSQc)
+- [The Worst Backup Idea I’ve Heard (And What to Do Instead)](https://youtu.be/7ExvtSeyHL0)
